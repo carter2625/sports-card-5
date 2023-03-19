@@ -6,7 +6,31 @@ export default async function handler(request, res) {
           "name": "Ken Griffey",
           "info": "Information: ",
           "top": "Ken"
-      }
+      },
+      {
+        "image": "https://milb.bamcontent.com/assets/images/6/3/8/176535638/cuts/Ken_Griffey_6k31bgls_sjlwtau1.jpg",
+        "name": "Ken Griffey",
+        "info": "Information: ",
+        "top": "Ken"
+    },
+    {
+        "image": "https://milb.bamcontent.com/assets/images/6/3/8/176535638/cuts/Ken_Griffey_6k31bgls_sjlwtau1.jpg",
+        "name": "Ken Griffey",
+        "info": "Information: ",
+        "top": "Ken"
+    },
+    {
+        "image": "https://milb.bamcontent.com/assets/images/6/3/8/176535638/cuts/Ken_Griffey_6k31bgls_sjlwtau1.jpg",
+        "name": "Ken Griffey",
+        "info": "Information: ",
+        "top": "Ken"
+    },
+    {
+        "image": "https://milb.bamcontent.com/assets/images/6/3/8/176535638/cuts/Ken_Griffey_6k31bgls_sjlwtau1.jpg",
+        "name": "Ken Griffey",
+        "info": "Information: ",
+        "top": "Ken"
+    }
     ];
     res.setHeader('Cache-Control', 'max-age=0, s-maxage=1800');
     res.setHeader("Access-Control-Allow-Credentials", "true");
